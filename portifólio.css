@@ -1,0 +1,11 @@
+li:hover {
+    background-color: blueviolet;
+    cursor: cell;
+}
+
+
+ul:active{
+    color: brown;
+
+}
+
